@@ -111,3 +111,24 @@ http://localhost:8080/swagger-ui/index.html
 - Robust exception handling
 - Swagger API documentation
 - No database architecture (stateless service)
+
+---
+
+## ▶️ How to Run
+
+1. Clone repository
+
+`git clone <repo-url>`
+
+2. Run application
+
+Using Maven:
+
+`mvn spring-boot:run`
+
+Or run directly from IDE (IntelliJ IDEA)
+
+3. Application will start on:
+
+`http://localhost:8080`
+
